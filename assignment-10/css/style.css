@@ -1,0 +1,21 @@
+body{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+}
+
+.images{
+    background-color:white ;
+    width: 400px;
+    height: 400px;
+}
+
+.header{
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.align{
+    text-align: center;
+}
