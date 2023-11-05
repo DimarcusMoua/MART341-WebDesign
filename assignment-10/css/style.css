@@ -12,7 +12,13 @@ body{
     border: 2px orange;
 }
 
-.header{
+h1{
+    color: blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
     color: blue;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
