@@ -5,9 +5,8 @@ body{
 }
 
 .images{
-    background-color:orange ;
-    width: 400px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
     position: center;
     border: 2px solid orange;
 }
