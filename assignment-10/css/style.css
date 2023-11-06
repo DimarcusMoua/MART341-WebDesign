@@ -5,9 +5,9 @@ body{
 }
 
 .images{
-    width: 1000px;
-    height: 900px;
-    position:center;
+    position: center;
+    width: 750px;
+    height: 700px;
 }
 
 h1{
