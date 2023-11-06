@@ -9,7 +9,7 @@ body{
     width: 400px;
     height: 400px;
     position: center;
-    border: 2px orange;
+    border: 2px solid orange;
 }
 
 h1{
