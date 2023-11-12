@@ -1,13 +1,6 @@
 @font-face {
     font-family: 'RobotoMono';
-    src: url('');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family:'Playfair Display';
-    src: url(https://fonts.google.com/specimen/Roboto);
+    src: url('./fonts/RobotoMono-Bold.ttf');
     font-weight: normal;
     font-style: normal;
 }
