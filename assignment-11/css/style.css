@@ -7,3 +7,8 @@ head{
     text-align: center;
     font-family: RobotMono;
 }
+
+.images{
+    border: 2px solid black;
+    position: center;
+}
