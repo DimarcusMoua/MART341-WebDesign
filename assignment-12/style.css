@@ -1,0 +1,21 @@
+div{
+    color: black;
+}
+
+.images{
+    width: 50%;
+    min-width: 400px;
+    max-width: 600px;
+    height: 400px;
+    overflow: scroll;
+}
+
+.body{
+    font-size: 12px;
+
+}
+
+.head{
+    text-align: center;
+    color: black;
+}
