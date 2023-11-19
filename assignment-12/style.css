@@ -3,6 +3,7 @@ div{
     text-align: center;
     background-color: silver;
     border: 2px solid red;
+    overflow: visible;
 }
 
 .images{
@@ -11,16 +12,20 @@ div{
     max-width: 600px;
     height: 400px;
     overflow: scroll;
+    position: center;
+    padding: 2em;
 
 }
 
 .body{
     font-size: 12px;
     padding: 2em;
+    margin: 2%;
 
 }
 
 .head{
     text-align: center;
     color: black;
+    position: fixed;
 }
