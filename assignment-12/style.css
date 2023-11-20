@@ -28,3 +28,7 @@ div{
     text-align: center;
     color: black;
 }
+
+.nav{
+    display:inline-block;
+}
