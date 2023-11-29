@@ -9,6 +9,10 @@ div{
     color: black;
 }
 
+body{
+    font-size: 12px;
+}
+
 .images{
     min-width: 400px;
     max-width: 600px;
@@ -20,9 +24,38 @@ div{
 
 }
 
-.menu-iten:hover{
+.menu-item{
+    color: white;
+    display: inline-block;
+    text-align: center;
+    background-color: black;
+}
+
+.menu-item:hover{
     background-color: gray;
 }
+
+.display-inline-block{
+    display: inline-block;
+}
+
+.dropdown-content{
+    background-color: gray;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+.dropdown-item{
+    display: block;
+    margin: 0;
+}
+
+.dropdown-item:hover, .dropdown-item:hover{
+    background-color: gray;
+}
+
 
 @media only screen and (min-width:600px){
     .col-s-1{width:8%;}
