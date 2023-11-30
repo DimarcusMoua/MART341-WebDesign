@@ -46,13 +46,18 @@ header {
 .dropdown {
     display: inline-block;
 }
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0;
+}
 
 .dropdown-content a {
     background-color: gray;
-    display: none;
+    border: 1px solid black;
 }
 
-.dropdown:hover .dropdown-content a { 
+.dropdown:hover .dropdown-content { 
     display: block;
 }
 
