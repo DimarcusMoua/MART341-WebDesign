@@ -1,7 +1,5 @@
 div{
-    border: 2px solid black;
     overflow: visible;
-
 }
 
 .head{
@@ -24,11 +22,17 @@ body{
 
 }
 
-.menu-item{
+header {
+    background-color: black;
+    font-size: 18px;
+    text-align: right;
+}
+
+.menu-item a {
     color: white;
     display: inline-block;
     text-align: center;
-    background-color: black;
+    background-color: white;
 }
 
 .menu-item:hover{
@@ -39,12 +43,16 @@ body{
     display: inline-block;
 }
 
-.dropdown-content{
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content a {
     background-color: gray;
     display: none;
 }
 
-.dropdown:hover .dropdown-content{
+.dropdown:hover .dropdown-content a { 
     display: block;
 }
 
