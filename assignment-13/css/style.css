@@ -41,6 +41,7 @@ body{
 
 .dropdown-content{
     background-color: gray;
+    display: none;
 }
 
 .dropdown:hover .dropdown-content{
