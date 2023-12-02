@@ -23,9 +23,9 @@ body{
 }
 
 header {
-    background-color: black;
+    background-color: antiquewhite;
     font-size: 18px;
-    text-align: center;
+    text-align: left;
 }
 
 .menu-item a {
