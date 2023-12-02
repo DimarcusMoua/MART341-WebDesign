@@ -66,8 +66,10 @@ header {
     margin: 0;
 }
 
-.dropdown-item:hover, .dropdown-item:hover{
-    background-color: gray;
+.dropdown-item:hover, .dropdown-item:hover a
+{
+    color: gray;
+    background-color: aliceblue;
 }
 
 @media only screen and (max-width:778px) {
