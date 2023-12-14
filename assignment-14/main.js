@@ -19,5 +19,5 @@ ctx.stroke();
 var c = document.getElementById("myCanvas");
 var ctx = c.getContext("2d");
 ctx.beginPath();
-ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+ctx.arc(100, 65, 50, 5, 3 * Math.PI);
 ctx.stroke();
