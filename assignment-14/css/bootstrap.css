@@ -202,3 +202,9 @@ title{
     position: center;
     color: black;
 }
+
+header{
+    background-color: grey;
+    color: white;
+    border: 2px black;
+}
